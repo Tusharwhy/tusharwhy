@@ -3,7 +3,7 @@
 <h3 align="center">A Cloud enthusiast from India</h3>
 <img align= "right" alt=coding width= "400" src="https://thumbs.gfycat.com/AlertRadiantHoiho-size_restricted.gif">
 
-- 🔭 I’m currently working on **deploying WP site on cloud**
+- 🔭 I’m currently working on **Deployment of WP site using AWS**
 
 - 🌱 I’m currently learning **AWS services**
 
