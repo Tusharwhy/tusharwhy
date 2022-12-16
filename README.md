@@ -1,4 +1,4 @@
-![MasterHead](https://wallpapercave.com/uwp/uwp934937.jpeg)
+![MasterHead](https://www.globaldots.com/wp-content/themes/globaldots_v2_etyhadar/assets/images/resources-featured-image.jpg)
 <h1 align="center">Hi 👋, I'm Tushar Rajora</h1>
 <h3 align="center">A Cloud enthusiast from India</h3>
 <img align= "right" alt=coding width= "400" src="https://thumbs.gfycat.com/AlertRadiantHoiho-size_restricted.gif">
