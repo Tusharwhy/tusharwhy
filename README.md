@@ -1,5 +1,5 @@
 ![MasterHead](https://wallpapercave.com/uwp/uwp934937.jpeg)
-<h1 align="center">Hey 🦸‍♂️, I'm Tushar</h1>
+<h1 align="center">Hi 👋, I'm Tushar Rajora</h1>
 <h3 align="center">A Cloud enthusiast from India</h3>
 <img align= "right" alt=coding width= "400" src="https://thumbs.gfycat.com/AlertRadiantHoiho-size_restricted.gif">
 
