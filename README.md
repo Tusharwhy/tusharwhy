@@ -1,13 +1,13 @@
 ![MasterHead](https://www.globaldots.com/wp-content/themes/globaldots_v2_etyhadar/assets/images/resources-featured-image.jpg)
 <h1 align="center">Hi 👋, I'm Tushar Rajora</h1>
-<h3 align="center">A Cloud enthusiast from India</h3>
+<h3 align="center">Web  Developer</h3>
 <img align= "right" alt=coding width= "400" src="https://thumbs.gfycat.com/AlertRadiantHoiho-size_restricted.gif">
 
-- 🔭 I’m currently working on **Deployment of WP site using AWS**
+- 🔭 I’m currently working on **web3 web app**
 
-- 🌱 I’m currently learning **AWS services**
+- 🌱 I’m currently learning **Threejs**
 
-- 📫 How to reach me **tusharwhy69@gmail.com**
+- 📫 How to reach me **tusharrajora29@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
